@@ -1,3 +1,3 @@
 # hello-world
-Learning of GIT HUB functionality.
+Learning of GITHUB functionality.
 We have made changes to learn commit.
